@@ -20,7 +20,7 @@
   "dependencies": {
     "async": ">= 0.1.22",
     "bunyan": ">= 1.3.5",
-    "ldapjs": "ldapjs-hotfix",
+    "ldapjs-hotfix": "0.7.3",
     "underscore": ">= 1.4.3"
   },
   "repository": {
