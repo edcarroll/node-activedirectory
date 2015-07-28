@@ -1,4 +1,4 @@
-ActiveDirectory for Node
+ActiveDirectory for Node (includes 0.12 hotfix)
 =========
 
 ActiveDirectory is an ldapjs client for authN (authentication) and authZ (authorization) for Microsoft Active Directory with range retrieval support for large Active Directory installations. This code was a port of an existing C# library (not published) that I had written a few years ago. Here are the key features
