@@ -20,7 +20,7 @@
   "dependencies": {
     "async": ">= 0.1.22",
     "bunyan": ">= 1.3.5",
-    "ldapjs-hotfix": "0.7.3",
+    "ldapjs": "https://github.com/mcavage/node-ldapjs.git#acc1ca8f4314fd9d67561feabc8ce4c235076a5e",
     "underscore": ">= 1.4.3"
   },
   "repository": {
